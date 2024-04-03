@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Alexander!
+
+## Introduction
+
+Here you will find repositories I find worth sharing to help others improve their development skills or to learn something new. 
+
+## Cloud Engineering Projects
+
+- [NTFY Server Deployment on AWS using Terraform](https://github.com/Linuxander/ntfy_aws_deployment_iac)
 
 <!--
 **Linuxander/linuxander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
