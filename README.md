@@ -1,28 +1,30 @@
 ### Hi, I'm Alexander!
 
-## Introduction
+Coding is what I do for a living. Seeing the team and customers benefit from my contributions is deeply satisfying. Although cloud technologies are complex by nature, they solve major pain points within our projects. Using my 17 years of experience, I quickly identify these scenarios to implement the best available solutions, ensuring we stay on track.
 
-Here you will find repositories I find worth sharing to help others improve their development skills or to learn something new. 
+- 👔 I am on a mission to find a job opportunity with a company that values experience, continuous learning, and hard work.
+- 🚀 Every day I am refining my technical skills in either web development, RESTful API, CI/CD, or Infrastructure-as-Code.
+- 🌱 I’m currently expanding my understanding and experience with microservices.
+- 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.
 
-## Cloud Engineering Projects
+# Featured Repositories
 
-### NTFY Server Deployment on AWS using Terraform
-Resources:
-- [Repo: ntfy_aws_deployment_iac](https://github.com/Linuxander/ntfy_aws_deployment_iac)
+## CI/CD: React + AWS
 
-Some AWS builds take a while to deploy.  Baby-sitting the command terminal and waiting for it to complete can be dreading.  We can easily get distracted and check too soon or late, wasting valuable time.  I came across a neat server called NTFY, which can notify you on your phone and smartwatch when commands are complete.  The setup requires manual intervention to install and configure.  To simplify this process, I created a Terraform project that deploys this NTFY server for you and outputs the public IP address required to complete the setup on your phone.
+This repository focuses on the Continuous Integration (CI) and Continuous Deployment (CD) of React-based app deployed to AWS S3.  It also includes pipeline steps invalidating Amazon CloudFront cache invalidations at the end of the deployment process.
 
-<!--
-**Linuxander/linuxander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Link: CI/CD: React + AWS](https://github.com/Linuxander/CI_CD_Bitbucket_Pipline_React_AWS)
 
-Here are some ideas to get you started:
+## Terraform : AWS EKS Cluster
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository deploys a full Amazon VPC networking setup, with an AWS EC2 Jenkins server, and an EKS Cluster.  The intention is to automate a full configuration for an entire CI/CD system geared for a Kubernetes project.
+
+[Link: Terraform: AWS EKS Cluster](https://github.com/Linuxander/Terraform_AWS_EKS_Cluster)
+
+## CI/CD: Bitbucket Pipeline + Versioning + Docker
+
+This repository focuses on a Bitbucket pipeline that automates the increment of a version.txt file and also has the Continuous Delivery of a Docker image build to DockerHub.
+
+[Link: CI/CD: Bitbucket Pipeline + Versioning + Docker](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)
+
+
