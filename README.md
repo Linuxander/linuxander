@@ -3,7 +3,7 @@
 Coding is what I do for a living. Seeing the team and customers benefit from my contributions is deeply satisfying. Although cloud technologies are complex by nature, they solve major pain points within our projects. Using my 17 years of experience, I quickly identify these scenarios to implement the best available solutions, ensuring we stay on track.
 
 - 👔 I am on a mission to find a job opportunity with a company that values experience, continuous learning, and dedication.
-- 🚀 Every day I am refining my technical skills in either web development, RESTful API, CI/CD, or Infrastructure-as-Code.
+- 🚀 Every day I am refining my technical skills in either Web Development, RESTful API, CI/CD, or Infrastructure-as-Code.
 - 🌱 I’m currently expanding my understanding and experience with microservices.
 - 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.
 
