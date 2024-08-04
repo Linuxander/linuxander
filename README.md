@@ -1,6 +1,6 @@
 ### Hi, I'm Alexander!
 
-Coding is what I do for a living. Seeing the team and customers benefit from my contributions is deeply satisfying. Cloud technologies are complex by nature but solve major pain points within our projects. Using my 17 years of experience, I quickly identify these scenarios to implement the best available solutions, ensuring we stay on track.
+Coding is what I do for a living. Seeing our external and internal customers benefit from my contributions is satisfying. Given the complexity of cloud technologies, I provide optimal solutions quickly due to my years of experience, which helps maintain the teams velocity.
 
 - 👔 I am on a mission to find a job opportunity with a company that values experience, continuous learning, and dedication.
 - 🚀 Every day I am refining my technical skills in either Web Development, RESTful API, CI/CD, or Infrastructure-as-Code.
