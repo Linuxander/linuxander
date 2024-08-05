@@ -1,6 +1,6 @@
 ### Hi, I'm Alexander!
 
-Coding is what I do for a living. It is satisfying to see external and internal customers benefit from my contributions. Given the complexity of cloud technologies, my years of experience allow me to provide optimal solutions, while maintain the team's velocity.
+Coding is what I do for a living. It is satisfying to see external and internal customers benefit from my contributions. Given the complexity of cloud technologies, my years of experience enable me to provide optimal solutions while maintaining the team's velocity.
 
 - 👔 I am on a mission to find a job opportunity with a company that values experience, continuous learning, and dedication.
 - 🚀 Every day I am refining my technical skills in either Web Development, RESTful API, CI/CD, or Infrastructure-as-Code.
