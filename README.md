@@ -21,7 +21,7 @@ Coding is what I do for a living. It is satisfying to see external and internal 
 
 # Cloud Engineering
 
-## NTFY AWS Deployment IaC
+## Terraform: NTFY AWS Deployment IaC
 
 Deploying cloud resources that take a while to build and you want to get notified on your smart watch or phone when your terraform/commands complete (or fail)?  Then use this Terraform repository to deploy a NTFY server on the AWS Cloud Platform.  It creates an NTFY server on an Amazon EC2 instance and provides you with the IP address so you can finalize the NTFY app setup on your phone. When you're done and no longer need this setup, simply run `terraform destroy` so you don't get charged while you're not developing.
 
@@ -69,7 +69,7 @@ This repository focuses on a Bitbucket pipeline that automates the increment of 
 
 This is an Ansible repostiory that allows you to specify desired applications to have installed on debian-based Linux systems.  I use this to manage family and friends computers and to also configure newly provisioned Linux systems to my liking in an automated way.
 
-[Link: Computer Application Management](https://github.com/Linuxander/Ansible_Computer_Application_Management)
+[Link: Ansible_Computer Application Management](https://github.com/Linuxander/Ansible_Computer_Application_Management)
 
 <div>
   <br/>
