@@ -8,7 +8,14 @@ Coding is what I do for a living. It is satisfying to see external and internal 
 - 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.  
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark)
+
+<div>
+  <br/>
+</div>
 ---
+<div>
+  <br/>
+</div>
 
 # Cloud Engineering
 
@@ -30,7 +37,13 @@ This repository deploys several terraform modules that completes a serverless ap
 
 [Link: Terraform: AWS Serverless Infrastructure](https://github.com/Linuxander/Terraform_AWS_Serverless_Infrastructure)
 
+<div>
+  <br/>
+</div>
 ---
+<div>
+  <br/>
+</div>
 
 # DevOps CI/CD
 
@@ -45,6 +58,14 @@ This repository focuses on the Continuous Integration (CI) and Continuous Deploy
 This repository focuses on a Bitbucket pipeline that automates the increment of a version.txt file and also has the Continuous Delivery of a Docker image build to DockerHub.
 
 [Link: CI/CD: Bitbucket Pipeline + Versioning + Docker](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)
+
+<div>
+  <br/>
+</div>
+---
+<div>
+  <br/>
+</div>
 
 # Configuration Management
 
