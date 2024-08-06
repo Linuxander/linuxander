@@ -6,7 +6,8 @@ Coding is what I do for a living. It is satisfying to see external and internal 
 - 🚀 Every day I am refining my technical skills in either Web Development, RESTful API, CI/CD, or Infrastructure-as-Code.
 - 🌱 I’m currently expanding my understanding and experience with microservices.
 - 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.  
-
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark)
 ---
 
 # Cloud Engineering
