@@ -19,6 +19,13 @@ Coding is what I do for a living. It is satisfying to see external and internal 
   <br/>
 </div>
 
+---
+
+<div>
+  <br/>
+  <br/>
+</div>
+
 # Cloud Engineering
 
 ## Terraform: NTFY AWS Deployment IaC
