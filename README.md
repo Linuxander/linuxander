@@ -5,15 +5,17 @@ Coding is what I do for a living. It is satisfying to see external and internal 
 - 👔 I am on a mission to find a job opportunity with a company that values experience, continuous learning, and dedication.
 - 🚀 Every day I am refining my technical skills in either Web Development, RESTful API, CI/CD, or Infrastructure-as-Code.
 - 🌱 I’m currently expanding my understanding and experience with microservices.
-- 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.  
----
+- 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.
+
+<div>
+  <br/>
+  <br/>
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark)
 
 <div>
   <br/>
-</div>
----
-<div>
   <br/>
 </div>
 
@@ -39,9 +41,6 @@ This repository deploys several terraform modules that completes a serverless ap
 
 <div>
   <br/>
-</div>
----
-<div>
   <br/>
 </div>
 
@@ -61,9 +60,6 @@ This repository focuses on a Bitbucket pipeline that automates the increment of 
 
 <div>
   <br/>
-</div>
----
-<div>
   <br/>
 </div>
 
