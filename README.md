@@ -78,6 +78,11 @@ This is an Ansible repostiory that allows you to specify desired applications to
 
 ---
 
+<div>
+  <br/>
+  <br/>
+</div>
+
 # GitHub Stats
 ![Linuxander's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxander&showicons=true&theme=nord)
 
