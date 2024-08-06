@@ -7,13 +7,7 @@ Coding is what I do for a living. It is satisfying to see external and internal 
 - 🌱 I’m currently expanding my understanding and experience with microservices.
 - 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.
 
-# Featured Repositories
-
-## CI/CD: React + AWS
-
-This repository focuses on the Continuous Integration (CI) and Continuous Deployment (CD) of React-based app deployed to AWS S3.  It also includes pipeline steps invalidating Amazon CloudFront cache invalidations at the end of the deployment process.
-
-[Link: CI/CD: React + AWS](https://github.com/Linuxander/CI_CD_Bitbucket_Pipline_React_AWS)
+# Cloud Engineering
 
 ## Terraform : AWS EKS Cluster
 
@@ -26,6 +20,14 @@ This repository deploys a full Amazon VPC networking setup, with an AWS EC2 Jenk
 This repository deploys several terraform modules that completes a serverless application on the AWS Cloud Platform.  The modules include networking (VPC, Subnets, Route Tables), RDS databse, Lambda functions (Python), Lambda layers, API Gateway, and Cognito.
 
 [Link: Terraform: AWS Serverless Infrastructure](https://github.com/Linuxander/Terraform_AWS_Serverless_Infrastructure)
+
+# DevOps CI/CD
+
+## CI/CD: React + AWS
+
+This repository focuses on the Continuous Integration (CI) and Continuous Deployment (CD) of React-based app deployed to AWS S3.  It also includes pipeline steps invalidating Amazon CloudFront cache invalidations at the end of the deployment process.
+
+[Link: CI/CD: React + AWS](https://github.com/Linuxander/CI_CD_Bitbucket_Pipline_React_AWS)
 
 ## CI/CD: Bitbucket Pipeline + Versioning + Docker
 
