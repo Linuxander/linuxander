@@ -71,6 +71,11 @@ This is an Ansible repostiory that allows you to specify desired applications to
 
 [Link: Computer Application Management](https://github.com/Linuxander/Ansible_Computer_Application_Management)
 
+<div>
+  <br/>
+  <br/>
+</div>
+
 ---
 
 # GitHub Stats
