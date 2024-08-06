@@ -46,6 +46,14 @@ This repository focuses on a Bitbucket pipeline that automates the increment of 
 
 [Link: CI/CD: Bitbucket Pipeline + Versioning + Docker](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)
 
+# Configuration Management
+
+## Ansible: Computer Application Management
+
+This is an Ansible repostiory that allows you to specify desired applications to have installed on debian-based Linux systems.  I use this to manage family and friends computers and to also configure newly provisioned Linux systems to my liking in an automated way.
+
+[Link: Computer Application Management](https://github.com/Linuxander/Ansible_Computer_Application_Management)
+
 ---
 
 # GitHub Stats
