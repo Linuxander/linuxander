@@ -6,9 +6,9 @@ Coding is what I do for a living. It is satisfying to see external and internal 
 - 🚀 Every day I am refining my technical skills in either Web Development, RESTful API, CI/CD, or Infrastructure-as-Code.
 - 🌱 I’m currently expanding my understanding and experience with microservices.
 - 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.
-
-
-
+  
+  
+  
 # Cloud Engineering
 
 ## Terraform : AWS EKS Cluster
@@ -22,9 +22,9 @@ This repository deploys a full Amazon VPC networking setup, with an AWS EC2 Jenk
 This repository deploys several terraform modules that completes a serverless application on the AWS Cloud Platform.  The modules include networking (VPC, Subnets, Route Tables), RDS databse, Lambda functions (Python), Lambda layers, API Gateway, and Cognito.
 
 [Link: Terraform: AWS Serverless Infrastructure](https://github.com/Linuxander/Terraform_AWS_Serverless_Infrastructure)
-
-
-
+  
+  
+  
 # DevOps CI/CD
 
 ## CI/CD: React + AWS
@@ -38,9 +38,9 @@ This repository focuses on the Continuous Integration (CI) and Continuous Deploy
 This repository focuses on a Bitbucket pipeline that automates the increment of a version.txt file and also has the Continuous Delivery of a Docker image build to DockerHub.
 
 [Link: CI/CD: Bitbucket Pipeline + Versioning + Docker](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)
-
-
-
+  
+  
+  
 # GitHub Stats
 ![Linuxander's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxander&showicons=true&theme=nord)
 
