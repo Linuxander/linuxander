@@ -35,4 +35,7 @@ This repository focuses on a Bitbucket pipeline that automates the increment of 
 
 [Link: CI/CD: Bitbucket Pipeline + Versioning + Docker](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)
 
+# GitHub Stats
+![Linuxander's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxander&showicons=true&theme=nord)
+
 
