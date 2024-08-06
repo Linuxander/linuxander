@@ -51,6 +51,13 @@ This repository deploys several terraform modules that completes a serverless ap
   <br/>
 </div>
 
+---
+
+<div>
+  <br/>
+  <br/>
+</div>
+
 # DevOps CI/CD
 
 ## CI/CD: React + AWS
@@ -64,6 +71,13 @@ This repository focuses on the Continuous Integration (CI) and Continuous Deploy
 This repository focuses on a Bitbucket pipeline that automates the increment of a version.txt file and also has the Continuous Delivery of a Docker image build to DockerHub.
 
 [Link: CI/CD: Bitbucket Pipeline + Versioning + Docker](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)
+
+<div>
+  <br/>
+  <br/>
+</div>
+
+---
 
 <div>
   <br/>
