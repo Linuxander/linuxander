@@ -12,6 +12,12 @@ Coding is what I do for a living. It is satisfying to see external and internal 
 
 # Cloud Engineering
 
+## NTFY AWS Deployment IaC
+
+Deploying cloud resources that take a while to build and you want to get notified on your smart watch or phone when your terraform/commands complete (or fail)?  Then use this Terraform repository to deploy a NTFY server on the AWS Cloud Platform.  It creates an NTFY server on an Amazon EC2 instance and provides you with the IP address so you can finalize the NTFY app setup on your phone. When you're done and no longer need this setup, simply run `terraform destroy` so you don't get charged while you're not developing.
+
+[Link: NTFY AWS Deployment IaC](https://github.com/Linuxander/ntfy_aws_deployment_iac)
+
 ## Terraform : AWS EKS Cluster
 
 This repository deploys a full Amazon VPC networking setup, with an AWS EC2 Jenkins server, and an EKS Cluster.  The intention is to automate a full configuration for an entire CI/CD system geared for a Kubernetes project.
