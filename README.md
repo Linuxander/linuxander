@@ -64,7 +64,7 @@ This repository deploys several terraform modules that completes a serverless ap
 
 This repository provides instructions on how to incldue Snyk vulnerability scanning to your node project in your Bitbucket CI/CD pipelines.
 
-[Link: Snyk Vulernability Scanning + Bitbucket CI/CD](https://github.com/Linuxander/DevSecOpos_Snyk_Bitbucket_Example)
+[Link: Snyk Vulernability Scanning + Bitbucket CI/CD](https://github.com/Linuxander/DevSecOps_Snyk_Bitbucket_Example)
 
 ## CI/CD: React + AWS
 
