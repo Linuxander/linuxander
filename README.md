@@ -60,6 +60,12 @@ This repository deploys several terraform modules that completes a serverless ap
 
 # DevOps CI/CD
 
+## DevSecOps: Adding Snyk Vulnerability Scanning to Bitbucket CI/CD
+
+This repository provides instructions on how to incldue Snyk vulnerability scanning to your node project in your Bitbucket CI/CD pipelines.
+
+[Link: ](https://github.com/Linuxander/DevSecOpos_Snyk_Bitbucket_Example)
+
 ## CI/CD: React + AWS
 
 This repository focuses on the Continuous Integration (CI) and Continuous Deployment (CD) of React-based app deployed to AWS S3.  It also includes pipeline steps invalidating Amazon CloudFront cache invalidations at the end of the deployment process.
