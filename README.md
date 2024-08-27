@@ -12,7 +12,7 @@ I'm a Senior DevOps Engineer with 17 years of experience in software development
   <br/>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark) 
 
 <div>
   <br/>
