@@ -7,16 +7,11 @@ I'm a Senior DevOps Engineer with 17 years of experience in software development
 - 🌱 I’m currently expanding my understanding and experience with microservices.
 - 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.
 
-<div>
-  <br/>
-  <br/>
-</div>
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark) 
-
-<div>
-  <br/>
-  <br/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark" alt="Top Languages" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linuxander&showicons=true&theme=nord" alt="GitHub Stats" style="width: 48%;" />
 </div>
 
 ---
@@ -122,15 +117,3 @@ If your phone storage is getting full, you can use this script to offload your p
   <br/>
   <br/>
 </div>
-
----
-
-<div>
-  <br/>
-  <br/>
-</div>
-
-# GitHub Stats
-![Linuxander's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxander&showicons=true&theme=nord)
-
-
