@@ -2,11 +2,6 @@
 
 I'm a Senior DevOps Engineer with 17 years of experience in software development and automating code integration & deployments. Companies hired me to bring complex projects to life and improve existing ones. Last year, I made the exciting decision to prioritize my professional growth by leaving my corporate role and immersing myself with the cloud technologies I enjoy.
 
-- 👔 I am on a mission to find a job opportunity with a company that values experience, continuous learning, and dedication.
-- 🚀 Every day I am refining my technical skills in either Web Development, RESTful API, CI/CD, or Infrastructure-as-Code.
-- 🌱 I’m currently expanding my understanding and experience with microservices.
-- 🌥️ Development on the AWS Cloud Platform is what I have been focusing on lately.
-
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
