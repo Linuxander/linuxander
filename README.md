@@ -1,6 +1,7 @@
 ### Hi, I'm Alexander!
 
-I'm a Senior DevOps Engineer with 17 years of experience in software development and automating code integration & deployments. Companies hired me to bring complex projects to life and improve existing ones. Last year, I made the exciting decision to prioritize my professional growth by leaving my corporate role and immersing myself with the cloud technologies I enjoy.
+I'm an engineer who uses Python for application development and Terraform for infrastructure automation on the AWS cloud platform. Since 2007, I've built several interactive software applications, automated systems for the US Army, and designed image processing vehicle X-ray servers. My goal is to contribute my skills and years of experience to a team that’s improving a cloud based product.
+
 
 ---
 
