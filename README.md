@@ -1,4 +1,4 @@
-### Hi, I'm Alexander!
+### Engineer — DevOps • Software • Cloud
 
 From battlefield communication products to X-ray servers that detect hidden contraband, I've spent most of my career building national security systems. My work has been deployed in war zones and along the US-Mexico border. To ensure quality throughout the Software Development Lifecycle, I leverage CI/CD pipelines and scripting. My current focus is Python development and AWS infrastructure automation using Terraform.
 
