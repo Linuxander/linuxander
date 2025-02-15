@@ -44,20 +44,20 @@ Terraform project that setups up cloud infrastructure and deploys a NTFY server 
 
 Script to backup iPhone media contents into a zip file.
 
-[Link: iPhone Media Backup Script](https://github.com/Linuxander/iphone_media_backup_script)
+[Repo Link | iPhone Media Backup Script](https://github.com/Linuxander/iphone_media_backup_script)
 
 
 ## AWS CI EKS Cluster
 
 Terraform project for AWS VPC setup, Jenkins EC2 server, and AWS EKS cluster.
 
-[Repo Link: AWS CI EKS Cluster (Terraform/AWS)](https://github.com/Linuxander/Terraform_AWS_EKS_Cluster)
+[Repo Link | AWS CI EKS Cluster (Terraform/AWS)](https://github.com/Linuxander/Terraform_AWS_EKS_Cluster)
 
 ## AWS Serverless Infrastructure - API Gateway, Lambda (Python), RDS Database
 
 This repository deploys several terraform modules that completes a serverless application on the AWS Cloud Platform.  The modules include networking (VPC, Subnets, Route Tables), RDS databse, Lambda functions (Python), Lambda layers, API Gateway, and Cognito.
 
-[Repo Link: AWS Serverless Infrastructure](https://github.com/Linuxander/Terraform_AWS_Serverless_Infrastructure)
+[Repo Link | AWS Serverless Infrastructure](https://github.com/Linuxander/Terraform_AWS_Serverless_Infrastructure)
 
 <div>
   <br/>
