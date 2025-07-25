@@ -1,6 +1,6 @@
-### Engineer — DevOps • Software • Cloud
+### Platform Engineer
 
-Proven technical specialist known for exceptional learning agility, delivering complex systems with expertise in Python and AWS automation via Terraform. From battlefield communication products to X-ray servers that detect hidden contraband, I've spent most of my career building national security systems. My work has been deployed in war zones and along the US-Mexico border. My passion for process automation enhances development lifecycles through integrated CI/CD pipelines and automated scripting implementations.
+My ability to learn complex technologies has earned me the opportunity to join amazing teams and work on interesting projects such as US Army combat communication systems and vehicle x-ray scanners at the US-Mexico border. I’ve played roles both as a collaborative team participant and leading major projects independently. My expertise includes software development, infrastructure automation, and scripting that supports modern platform engineering initiatives.
 
 
 ---
