@@ -1,6 +1,6 @@
 ### Platform Engineer
 
-My ability to learn complex technologies has earned me the opportunity to join amazing teams and work on interesting projects such as US Army combat communication systems and vehicle x-ray scanners at the US-Mexico border. I’ve played roles both as a collaborative team participant and leading major projects independently. My expertise includes software development, infrastructure automation, and scripting that supports modern platform engineering initiatives.
+Building systems is super fun. It’s like solving great big puzzles. The deeper you get involved in the architecture, the more complicated things naturally are. As a Platform Engineer, being able to make these complex technologies simpler via automation reminds me of why this industry excites me.
 
 
 ---
