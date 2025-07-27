@@ -1,4 +1,4 @@
-### Platform Engineer
+# Platform Engineer
 
 Building systems is super fun. The deeper you get involved in these technical architectures, the more complicated things naturally get. As a Platform Engineer, being able to simplify these complex operations via automation reminds me of why I enjoy contribuiting to this industry.
 
