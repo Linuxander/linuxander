@@ -2,7 +2,6 @@
 
 Building systems is super fun. The deeper you get involved in these technical architectures, the more complicated things naturally get. As a Platform Engineer, being able to simplify these complex operations via automation reminds me of why I enjoy contribuiting to this industry.
 
-
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -12,99 +11,30 @@ Building systems is super fun. The deeper you get involved in these technical ar
 
 ---
 
-<div>
-  <br/>
-  <br/>
-</div>
+## Featured Projects
 
-# Featured Projects
+**[Command Notification Server](https://github.com/Linuxander/ntfy_aws_deployment_iac)**  
+Terraform project that sets up cloud infrastructure and deploys a NTFY server for command completion notifications.
 
-## Command Notification Server
+**[AWS CI EKS Cluster](https://github.com/Linuxander/Terraform_AWS_EKS_Cluster)**  
+Complete Terraform setup for AWS VPC, Jenkins EC2 server, and EKS cluster.
 
-Terraform project that setups up cloud infrastructure and deploys a NTFY server that notifies you after long-running commands succeed/fail.
+**[AWS Serverless Infrastructure](https://github.com/Linuxander/Terraform_AWS_Serverless_Infrastructure)**  
+Full serverless application deployment with API Gateway, Lambda (Python), RDS, and Cognito.
 
-[Repo Link | Command Notification Server (Terraform/AWS)](https://github.com/Linuxander/ntfy_aws_deployment_iac)
+**[iPhone Media Backup Script](https://github.com/Linuxander/iphone_media_backup_script)**  
+Simple script to backup iPhone media contents into a zip file.
 
+## DevOps & Automation
 
-<div>
-  <br/>
-  <br/>
-</div>
+**[DevSecOps: Snyk + Bitbucket CI/CD](https://github.com/Linuxander/DevSecOps_Snyk_Bitbucket_Example)**  
+Implementation guide for vulnerability scanning in Bitbucket pipelines.
 
----
+**[React + AWS CI/CD](https://github.com/Linuxander/CI_CD_Bitbucket_Pipline_React_AWS)**  
+Complete CI/CD pipeline for React apps with S3 deployment and CloudFront cache invalidation.
 
-<div>
-  <br/>
-  <br/>
-</div>
+**[Docker CI/CD with Versioning](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)**  
+Automated versioning and Docker image builds using Bitbucket pipelines.
 
-# Honorable Mentions
-
-## iPhone Media Backup Script
-
-Script to backup iPhone media contents into a zip file.
-
-[Repo Link | iPhone Media Backup Script](https://github.com/Linuxander/iphone_media_backup_script)
-
-
-## AWS CI EKS Cluster
-
-Terraform project for AWS VPC setup, Jenkins EC2 server, and AWS EKS cluster.
-
-[Repo Link | AWS CI EKS Cluster (Terraform/AWS)](https://github.com/Linuxander/Terraform_AWS_EKS_Cluster)
-
-## AWS Serverless Infrastructure - API Gateway, Lambda (Python), RDS Database
-
-This repository deploys several terraform modules that completes a serverless application on the AWS Cloud Platform.  The modules include networking (VPC, Subnets, Route Tables), RDS databse, Lambda functions (Python), Lambda layers, API Gateway, and Cognito.
-
-[Repo Link | AWS Serverless Infrastructure](https://github.com/Linuxander/Terraform_AWS_Serverless_Infrastructure)
-
-<div>
-  <br/>
-  <br/>
-</div>
-
----
-
-<div>
-  <br/>
-  <br/>
-</div>
-
-# Code Samples
-
-## DevSecOps: Adding Snyk Vulnerability Scanning to Bitbucket CI/CD
-
-This repository provides instructions on how to incldue Snyk vulnerability scanning to your node project in your Bitbucket CI/CD pipelines.
-
-[Repo Link | Snyk Vulernability Scanning + Bitbucket CI/CD](https://github.com/Linuxander/DevSecOps_Snyk_Bitbucket_Example)
-
-## CI/CD: React + AWS
-
-This repository focuses on the Continuous Integration (CI) and Continuous Deployment (CD) of React-based app deployed to AWS S3.  It also includes pipeline steps invalidating Amazon CloudFront cache invalidations at the end of the deployment process.
-
-[Repo Link | CI/CD: React + AWS](https://github.com/Linuxander/CI_CD_Bitbucket_Pipline_React_AWS)
-
-## CI/CD: Bitbucket Pipeline + Versioning + Docker
-
-This repository focuses on a Bitbucket pipeline that automates the increment of a version.txt file and also has the Continuous Delivery of a Docker image build to DockerHub.
-
-[Repo Link | CI/CD: Bitbucket Pipeline + Versioning + Docker](https://github.com/Linuxander/CI_Bitbucket_Pipeline_Docker_Build_Example)
-
-
-## Ansible: Computer Application Management
-
-This is an Ansible repostiory that allows you to specify desired applications to have installed on debian-based Linux systems.  I use this to manage family and friends computers and to also configure newly provisioned Linux systems to my liking in an automated way.
-
-[Repo Link | Ansible_Computer Application Management](https://github.com/Linuxander/Ansible_Computer_Application_Management)
-
-## Ansible: Computer Application Management
-
-This is an Ansible repostiory that allows you to specify desired applications to have installed on debian-based Linux systems.  I use this to manage family and friends computers and to also configure newly provisioned Linux systems to my liking in an automated way.
-
-[Repo Link | Ansible_Computer Application Management](https://github.com/Linuxander/Ansible_Computer_Application_Management)
-
-<div>
-  <br/>
-  <br/>
-</div>
+**[Ansible Application Management](https://github.com/Linuxander/Ansible_Computer_Application_Management)**  
+Automated application management for Debian-based Linux systems.
