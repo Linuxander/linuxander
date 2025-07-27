@@ -1,6 +1,6 @@
 ### Platform Engineer
 
-Building systems is super fun. The deeper you get involved in the architecture, the more complicated things naturally get. As a Platform Engineer, being able to simplify these complex operations via automation reminds me of why I enjoy contribuiting to this industry.
+Building systems is super fun. The deeper you get involved in the technical architectures, the more complicated things naturally get. As a Platform Engineer, being able to simplify these complex operations via automation reminds me of why I enjoy contribuiting to this industry.
 
 
 ---
