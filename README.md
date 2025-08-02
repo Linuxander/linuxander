@@ -4,26 +4,26 @@ Building systems is super fun. The deeper you get involved in these technical ar
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark" alt="Top Languages" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=linuxander&showicons=true&theme=nord" alt="GitHub Stats" style="width: 48%;" />
-</div>
-
----
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxander&theme=nord_dark" alt="Top Languages" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linuxander&showicons=true&theme=nord" alt="GitHub Stats" style="width: 48%;" />
+</div>
 
 ---
 
