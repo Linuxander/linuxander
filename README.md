@@ -8,7 +8,7 @@ Building systems is super fun. The deeper you get involved in these technical ar
 <tr>
 <td>
 
-[<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">](https://badgen.net/help#generators)
+<img src="https://badgen.net/badge/icon/Kubernetes/blue?icon=kubernetes&label" alt="Kubernetes"> <img src="https://badgen.net/badge/icon/Terraform/purple?icon=terraform&label" alt="Terraform"> <img src="https://badgen.net/badge/icon/AWS/orange?icon=aws&label" alt="AWS"> <img src="https://badgen.net/badge/icon/Python/blue?icon=python&label" alt="Python">
 
 </td>
 </tr>
