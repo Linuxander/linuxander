@@ -8,14 +8,14 @@ Building systems is super fun. The deeper you get involved in these technical ar
 <tr>
 <td>
 
-<img src="https://badgen.net/badge/icon/Kubernetes/blue?icon=kubernetes&label" alt="Kubernetes"> <img src="https://badgen.net/badge/icon/Terraform/purple?icon=terraform&label" alt="Terraform"> <img src="https://badgen.net/badge/icon/AWS/orange?icon=amazonwebservices&label" alt="AWS"> <img src="https://badgen.net/badge/icon/Python/blue?icon=python&label" alt="Python">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 </td>
 </tr>
 <tr>
 <td>
 
-<img src="https://badgen.net/badge/icon/React/cyan?icon=react&label" alt="React"> <img src="https://badgen.net/badge/icon/Bash/green?icon=terminal&label" alt="Bash"> <img src="https://badgen.net/badge/icon/Linux/yellow?icon=linux&label" alt="Linux">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 
 </td>
 </tr>
