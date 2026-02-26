@@ -11,8 +11,11 @@ Building systems is super fun. The deeper you get involved in these technical ar
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="http://github-profile-summary-cards-nine-theta.vercel.app/api/cards/profile-details?username=Linuxander&theme=nord_dark" alt="Top Languages" style="width: 48%;" />
-  <img src="https://github-readme-stats-seven-beta-81.vercel.app/api?username=linuxander&show_icons=true&theme=nord" alt="GitHub Stats" style="width: 48%;" />
+  <img src="http://github-profile-summary-cards-navy.vercel.app/api/cards/repos-per-language?username=Linuxander&theme=nord_dark" alt="Top Languages" style="width: 48%;" />
+  <img src="http://github-profile-summary-cards-navy.vercel.app/api/cards/stats?username=Linuxander&theme=nord_dark" alt="GitHub Stats" style="width: 48%;" />
+</div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="http://github-profile-summary-cards-navy.vercel.app/api/cards/profile-details?username=Linuxander&theme=nord_dark" alt="Top Languages" style="width: 48%;" />
 </div>
 
 
